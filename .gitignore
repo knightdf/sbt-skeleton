@@ -1,0 +1,18 @@
+# sbt specific
+.history
+.cache
+.lib/
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+dist/*
+
+# ide
+.idea
+*.iml
+
+*.class
+*.log
+.DS_Store
